@@ -17,7 +17,34 @@ body {
 
 }
 
-#elaleph {
 
-    width: 150px;
+
+#BiBlios {
+
+    text-align: center;
+}
+
+#bibliotecadigital {
+
+    text-align: center;
+}
+
+#nav {
+
+    text-align: center;
+}
+
+#aside {
+
+    text-align: right;
+}
+
+#listaporalfabeto {
+
+    margin: 5px;
+}
+
+#listaporcatalogo {
+
+    margin: 5px;
 }
