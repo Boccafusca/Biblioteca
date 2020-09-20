@@ -1,16 +1,19 @@
-#tabla {
-    background-color: rgba(0, 60, 255, 0.274);
-}
-
 .titulos {
 
     text-align: center;
-
+ 
 }
 
 .portadas {
 
     width: 200px;
+    border-radius: 25px; 
+    
+}
+
+body {
+
+    background-image: url(imagenes/linear-gradient-yellow-grey-1920x1080-c2-ffdab9-778899-a-330-f-14.png);
 
 }
 
